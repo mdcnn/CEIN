@@ -1,4 +1,4 @@
-# Concurrently Extrapolating and Interpolating Networks for Continuous Model Generation
+# Continuous Model Generation of Image Smoothing Operators Based on Deep Convolutional Neural Networks
 
 ## 1. Supplementary Material for "Continuous Model Generation of Image Smoothing Operators Based on Deep Convolutional Neural Networks" can be downloaded from [this website](https://github.com/mdcnn/CEIN/blob/master/elsarticle-template.pdf) or [BaiDu with codes：j6gu](https://pan.baidu.com/s/1oanRGfzdq_x2DhMTnRndJA)
 
