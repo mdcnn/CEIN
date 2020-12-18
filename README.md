@@ -1,8 +1,8 @@
-# Continuous Model Generation of Image Smoothing Operators Based on Deep Convolutional Neural Networks
+# Learning Deep Image Smoothing Operators for Continuous Model Generation
 
-## 1. Codes for "Continuous Model Generation of Image Smoothing Operators Based on Deep Convolutional Neural Networks" can be downloaded from [BaiDu with codes：qsqa](https://pan.baidu.com/s/15gLcKcWj5Jbb7ndaFbNuAw) or [Google Drive](https://drive.google.com/file/d/1f5k92uQvXsWtgVPQx-0hUAdyhk6HpWtx/view?usp=sharing).
+## 1. Codes for "Learning Deep Image Smoothing Operators for Continuous Model Generation" can be downloaded from [BaiDu with codes：qsqa](https://pan.baidu.com/s/15gLcKcWj5Jbb7ndaFbNuAw) or [Google Drive](https://drive.google.com/file/d/1f5k92uQvXsWtgVPQx-0hUAdyhk6HpWtx/view?usp=sharing).
 
-## 2. Supplementary Material for "Continuous Model Generation of Image Smoothing Operators Based on Deep Convolutional Neural Networks" can be downloaded from [this website](https://github.com/mdcnn/CEIN/blob/master/Supplementary-Material.pdf) or [BaiDu with codes：gdor](https://pan.baidu.com/s/1XbjEVecb0ppjC15DX7Iu4w) or [Google Drive](https://drive.google.com/file/d/1vImAClBrc2VrV7tQixUuBgS-Kkfh5P2z/view?usp=sharing).
+## 2. Supplementary Material for "Learning Deep Image Smoothing Operators for Continuous Model Generation" can be downloaded from [this website](https://github.com/mdcnn/CEIN/blob/master/Supplementary-Material.pdf) or [BaiDu with codes：gdor](https://pan.baidu.com/s/1XbjEVecb0ppjC15DX7Iu4w) or [Google Drive](https://drive.google.com/file/d/1vImAClBrc2VrV7tQixUuBgS-Kkfh5P2z/view?usp=sharing).
 
 ## 3. Generalizability of DSA module for image super-resolution
 ### The codes for the networks of DAS-improved RNAN and RNAN（Our implementation of image super-resolution is achieved based on [the RNAN source codes](https://github.com/yulunzhang/RNAN)，so you need to put the  python code of our DAS-improved RNAN （rnan_das.py） into the RNAN framework when you wish to train a model with your dataset）
