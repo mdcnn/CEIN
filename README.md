@@ -2,7 +2,7 @@
 
 ## 1. Codes for "Learning Deep Image Smoothing Operators for Continuous Model Generation" can be downloaded from [BaiDu with codes：qsqa](https://pan.baidu.com/s/15gLcKcWj5Jbb7ndaFbNuAw) or [Google Drive](https://drive.google.com/file/d/1f5k92uQvXsWtgVPQx-0hUAdyhk6HpWtx/view?usp=sharing).
 
-## 2. Supplementary Material for "Learning Deep Image Smoothing Operators for Continuous Model Generation" can be downloaded from [this website](https://github.com/mdcnn/CEIN/blob/master/Supplementary-Material.pdf) or [BaiDu with codes：s9v7](https://pan.baidu.com/s/1DW9qDdt-S6BSzkf_4Qa_GQ) or [Google Drive]().
+## 2. Supplementary Material for "Learning Deep Image Smoothing Operators for Continuous Model Generation" can be downloaded from [this website](https://github.com/mdcnn/CEIN/blob/master/Supplementary%20Material%20for%20%E2%80%9DLearning%20Deep%20Image%20Smoothing%20Operators%20for%20Continuous%20Model%20Generation%E2%80%9D.pdf) or [BaiDu with codes：s9v7](https://pan.baidu.com/s/1DW9qDdt-S6BSzkf_4Qa_GQ) or [Google Drive](https://drive.google.com/file/d/1S0e9_F1yvnWytKUj7zsx6OgBtDSarqhV/view?usp=sharing).
 
 ## 3. Generalizability of DAS module for image super-resolution
 ### The codes for the networks of DAS-improved RNAN and RNAN（Our implementation of image super-resolution is achieved based on [the RNAN source codes](https://github.com/yulunzhang/RNAN)，so you need to put the  python code of our DAS-improved RNAN （rnan_das.py） into the RNAN framework when you wish to train a model with your dataset）
